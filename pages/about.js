@@ -7,7 +7,7 @@ const About = () => (
     <Link href='/'>
       <button>Back to home</button>
     </Link>
-    <Link href='/Robots'>
+    <Link href='/robots'>
       <button>Robots</button>
     </Link>
     <p>I was a magician once</p>
