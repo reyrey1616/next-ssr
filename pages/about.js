@@ -1,5 +1,5 @@
 import Link from 'next/link';
-
+import Image from '../components/Image';
 const About = () => (
   <div style={{ fontSize: '20px', color: 'blue' }}>
     <h1> ABOUT</h1>
@@ -7,6 +7,7 @@ const About = () => (
       <button>Back to home</button>
     </Link>
     <p>I was a magician once</p>
+    <Image />
   </div>
 );
 
